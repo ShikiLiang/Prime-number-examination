@@ -1,9 +1,9 @@
 ---Description---
 Exam whether a number is a prime number.
-List out all prime number <= the examed number.
+List out all prime numbers <= the examed number.
 ---Motivation---
-Notice that 20190823 is a "Prime" day from the news.
-Where "prime day" means that all the following numbers: 
+Notice that 20190823 is a "Prime" day from the news,
+where a "prime day" means that all the following numbers: 
 20190823, 0190823, 190823, 90823, 0823, 823, 23, 3
 are prime numbers.
 Want to prove this.
